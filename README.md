@@ -29,7 +29,7 @@ Aspiring **Data Analyst** with a background in research and customer service, no
 🔹 [Excel Capstone Project Sales Dashboard](#)https://github.com/jeevithagurram/Excell-Capstone/blob/main/Excel%20Capstone.xlsx, https://github.com/jeevithagurram/Excell-Capstone/blob/main/Excel%20Capstone%20Report.docx 
 Analyzed sales data using Excel (PivotTables, VLOOKUP, IF). Created an interactive dashboard for management reporting.
 
-🔹 [Power BI Capstone Project Dashboard](#)  
+🔹 [Power BI Capstone Project Dashboard](#)https://github.com/jeevithagurram/Power-BI-Capstone-Project/blob/main/Capstone%20.docx  
 Built a Power BI report analyzing sales, delays, payment methods, and regional trends.
 
 🔹 [Python Data Cleaning & Reporting](#)https://github.com/jeevithagurram/Python-capstone-project/blob/main/Python_Capstone.ipynb  
