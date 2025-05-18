@@ -20,13 +20,13 @@ Aspiring **Data Analyst** with a background in research and customer service, no
 ---
 
 ## 🎓 Certifications
-- 🏅 **Certified Data Analyst (Platinum)** – Skillovilla (Excel, SQL, Power BI, Python)
+- 🏅 **Certified Data Analyst (Platinum Category)** – Skillovilla (Excel, SQL, Power BI, Python)
 - 📈 Business Skill Development Program – Ministry of MSME
 
 ---
 
 ## 📁 Projects
-🔹 [Excel Capstone Project Sales Dashboard](#)https://github.com/jeevithagurram/Excell-Capstone/blob/main/Excel%20Capstone.xlsx 
+🔹 [Excel Capstone Project Sales Dashboard](#)https://github.com/jeevithagurram/Excell-Capstone/blob/main/Excel%20Capstone.xlsx, https://github.com/jeevithagurram/Excell-Capstone/blob/main/Excel%20Capstone%20Report.docx 
 Analyzed sales data using Excel (PivotTables, VLOOKUP, IF). Created an interactive dashboard for management reporting.
 
 🔹 [Power BI Capstone Project Dashboard](#)  
